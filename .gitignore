@@ -47,5 +47,4 @@ outputs/
 results/
 
 
-echo "*.npy" >> .gitignore
-echo "*.pkl" >> .gitignore
+echo "*.npy" >> .gitignoregit push origin ritika --force
