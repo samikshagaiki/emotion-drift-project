@@ -48,4 +48,3 @@ results/
 
 
 echo "*.npy" >> .gitignore
-echo "*.pkl" >> .gitignore
