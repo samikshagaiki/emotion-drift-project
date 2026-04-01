@@ -45,3 +45,7 @@ Thumbs.db
 *.log
 outputs/
 results/
+
+
+echo "*.npy" >> .gitignore
+echo "*.pkl" >> .gitignore
